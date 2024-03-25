@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #cfa6f8;
+  font-family: Quicksand, sans-serif;
+}
+
+.header {
+  background-color: #9932cc;
+  justify-content: center;
+  align-items: center;
+  height: 10svh;
+  display: flex;
+}
+
+.header .heading {
+  font-family: Rubik Scribble, system-ui;
+  font-size: 3rem;
+}
+
+.main {
+  justify-content: center;
+  align-items: center;
+  width: 100svw;
+  height: 50svh;
+  display: flex;
+}
+
+.footer {
+  border-top: 2px dashed #639;
+  justify-content: center;
+  align-items: center;
+  width: 100svw;
+  height: 10svh;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
