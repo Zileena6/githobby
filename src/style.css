@@ -22,11 +22,22 @@ body {
 }
 
 .main {
+  width: 100svw;
+  height: 80svh;
+  border: 1px solid red;
+  padding: 5rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 1fr 1fr;
+  gap: 1rem;
+}
+.main .card {
+  border: 1px solid green;
+}
+.main .card h2 {
+  font-family: "Rubik Scribble", system-ui;
   display: flex;
   justify-content: center;
-  align-items: center;
-  width: 100svw;
-  height: 50svh;
 }
 
 .footer {

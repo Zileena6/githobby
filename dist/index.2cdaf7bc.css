@@ -23,10 +23,23 @@ body {
 }
 
 .main {
-  justify-content: center;
-  align-items: center;
+  border: 1px solid red;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
   width: 100svw;
-  height: 50svh;
+  height: 80svh;
+  padding: 5rem;
+  display: grid;
+}
+
+.main .card {
+  border: 1px solid green;
+}
+
+.main .card h2 {
+  justify-content: center;
+  font-family: Rubik Scribble, system-ui;
   display: flex;
 }
 

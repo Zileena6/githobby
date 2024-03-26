@@ -1,7 +1,7 @@
 5852
 101D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@swc\helpers\src\_class_private_field_init.mjs133558523030605272 0
 90D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\htmlnano\lib\modules\minifyUrls.mjs133558523025561436 0
-59D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\style-min.css133558775836364836 0
+59D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\style-min.css133559391720879683 0
 87D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\regenerator-runtime\package.json133558523020123459 0
 85D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\optimizer-htmlnano\lib133558523033763803 1
 81D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\svgo\plugins\removeDesc.js133558523024741429 0
@@ -9,7 +9,7 @@
 69D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\ordered-binary133558523021654341 1
 106D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133558523024146224 0
 75D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\is-extglob\README.md133558523019642261 0
-57D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.html133558765777769843 0
+57D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.html133559393264801524 0
 92D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\caniuse-lite\data\features\dataset.js133558523028790049 0
 97D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\node-gyp-build-optional-packages\README.md133558523020653523 0
 91D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\css-tree\lib\syntax\node\Brackets.js133558523026614552 0
@@ -43,7 +43,7 @@
 83D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\workers\package.json133558523024476224 0
 76D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\dist\csso.esm.js133558523024771430 0
 139D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133558523022119584 0
-46D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist133558775176689033 1
+46D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist133559393264856045 1
 85D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\htmlparser2\lib\FeedHandler.js133558523019662259 0
 100D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\caniuse-lite\data\features\css-caret-color.js133558523026474484 0
 62D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\globals133558523020573457 1
@@ -77,7 +77,7 @@
 113D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator133558523026084490 1
 109D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\node_modules\css-tree\lib\syntax\scope\default.js133558523033141289 0
 45D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src133558526607652109 1
-56D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\index.html133558765686200433 0
+56D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\index.html133559393263884144 0
 93D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\codeframe\lib\codeframe.js.map133558523024616290 0
 83D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\entities\lib\decode.d.ts.map133558523022009603 0
 103D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js.flow133558523023806226 0
@@ -103,7 +103,7 @@
 81D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\src\Parcel.js133558523038300735 0
 120D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133558523032730811 0
 80D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\src\requests133558523039065905 1
-55D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\style.css133558775836364836 0
+55D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\style.css133559391720879683 0
 99D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\caniuse-lite\data\features\css-page-break.js133558523027459681 0
 63D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\error-ex133558523019983463 1
 89D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\type-fest\source\package-json.d.ts133558523022709652 0
@@ -111,7 +111,7 @@
 93D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs133558523026144482 0
 78D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\lib\public133558523038775920 1
 86D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\src\Environment.js133558523037990731 0
-59D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\style.css.map133558775836364836 0
+59D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\style.css.map133559391720879683 0
 77D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\css-tree\lib\generator133558523028524894 1
 117D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\tokenizer.cjs133558523032240755 0
 112D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133558523025061412 0
@@ -120,7 +120,7 @@
 124D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\types.d.ts.map133558523022744778 0
 78D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\escalade\sync\index.mjs133558523020713524 0
 65D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\picocolors133558523020593525 1
-56D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\style.scss133558775835976900 0
+56D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\src\style.scss133559391720459684 0
 74D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\is-number\README.md133558523020033485 0
 73D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\lmdb\node-index.js133558523026464484 0
 69D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\cjs\clean133558523023926235 1
@@ -2078,7 +2078,7 @@
 114D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133558523023796230 0
 86D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\css-tree\lib\syntax\node\Url.js133558523028654927 0
 96D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\caniuse-lite\data\features\mediasource.js133558523033411285 0
-71D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\githobby.59712999.js.map133558524618013579 0
+71D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\githobby.59712999.js.map133559239076712044 0
 114D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133558523022824767 0
 86D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\css-select\lib\pseudo-selectors133558523025311418 1
 84D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\cosmiconfig\dist\loaders.d.ts133558523022864770 0
@@ -2999,7 +2999,7 @@
 110D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\node_modules\css-tree\cjs\lexer\prepare-tokens.cjs133558523031910751 0
 86D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\caniuse-lite\data\regions\AZ.js133558523024166218 0
 102D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\node_modules\css-tree\cjs\lexer\search.cjs133558523032030766 0
-69D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.2cdaf7bc.css.map133558775176668962 0
+69D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.2cdaf7bc.css.map133559391721664581 0
 105D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\node_modules\css-tree\cjs\lexer\structure.cjs133558523032150761 0
 101D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\csso\node_modules\css-tree\cjs\lexer\trace.cjs133558523032270754 0
 135D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font-weight.js133558523023174774 0
@@ -3291,7 +3291,7 @@
 88D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@swc\helpers\_\_non_iterable_rest133558523029130052 1
 90D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\caniuse-lite\data\regions\alt-af.js133558523021999590 0
 80D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@swc\helpers\_\_ts_values133558523029825380 1
-67D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\githobby.59712999.js133558524617923575 0
+67D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\githobby.59712999.js133559239076592058 0
 130D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133558523024801419 0
 105D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133558523025776575 0
 89D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133558523025796567 0
@@ -4722,7 +4722,7 @@
 79D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\transformer-html133558523029350051 1
 70D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\workers133558523024496243 1
 81D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\workers\index.d.ts133558523024506223 0
-65D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.2cdaf7bc.css133558775176628896 0
+65D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.2cdaf7bc.css133559391721632889 0
 89D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\workers\test\workerfarm.js133558523024436230 0
 98D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\workers\test\integration\workerfarm133558523023826229 1
 119D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function133558523026404537 1
@@ -5733,7 +5733,7 @@
 91D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\lib\summarizeRequest.js133558523038710803 0
 98D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133558523038795917 0
 89D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\lib\Transformation.js133558523038885912 0
-68D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.de158e3a.js.map133558753693154297 0
+68D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.de158e3a.js.map133559239076777181 0
 80D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\lib\types.js133558523038905915 0
 101D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\lib\requests\AssetGraphRequest.js133558523037415575 0
 97D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\@parcel\core\lib\requests\DevDepRequest.js133558523037850721 0
@@ -5850,4 +5850,4 @@
 70D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\.bin\semver.ps1133558523043148761 0
 64D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\.bin\svgo133558523043148761 0
 68D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\node_modules\.bin\svgo.cmd133558523043148761 0
-64D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.de158e3a.js133558753693114312 0
+64D:\MEDIEINSTITUTET\Arbetsmetodik\githobby\dist\index.de158e3a.js133559239076737189 0
