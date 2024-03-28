@@ -33,11 +33,25 @@ body {
 }
 .main .card {
   border: 1px solid green;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .main .card h2 {
   font-family: "Rubik Scribble", system-ui;
+  margin-bottom: 0.5rem;
+}
+.main .card .image-container {
+  width: 300px;
+  height: 200px;
+  overflow: hidden;
   display: flex;
-  justify-content: center;
+  align-items: center;
+}
+.main .card .image-container img {
+  width: 300px;
+  height: auto;
 }
 
 .footer {
