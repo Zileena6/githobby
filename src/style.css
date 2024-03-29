@@ -22,22 +22,44 @@ body {
 }
 
 .main {
+  border-top: 3px dashed purple;
   width: 100svw;
   height: 80svh;
-  border: 1px solid red;
-  padding: 5rem;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: 1fr 1fr;
-  gap: 1rem;
-}
-.main .card {
-  border: 1px solid green;
-}
-.main .card h2 {
-  font-family: "Rubik Scribble", system-ui;
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+.main .card-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 1rem;
+}
+.main .card-container .card {
+  border: 3px dashed purple;
+  border-radius: 25px;
+  width: 24rem;
+  height: 18rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main .card-container .card h2 {
+  font-family: "Rubik Scribble", system-ui;
+  margin-bottom: 0.8rem;
+}
+.main .card-container .card .image-container {
+  width: 300px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+}
+.main .card-container .card .image-container img {
+  width: 300px;
+  height: auto;
 }
 
 .footer {
@@ -45,7 +67,7 @@ body {
   bottom: 0;
   width: 100svw;
   height: 10svh;
-  border-top: 2px dashed rebeccapurple;
+  border-top: 3px dashed purple;
   display: flex;
   justify-content: center;
   align-items: center;
